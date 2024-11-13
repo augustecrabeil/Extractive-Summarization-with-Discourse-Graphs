@@ -18,7 +18,8 @@ Evaluation
 - /training: Contains dialogue datasets for the training with the graph structure in the TXT files and the utterances in the JSON files.
 - /.: Contains: - the labels for the utterances of the training dialogues;
                 - the scripts for the feature extractions, data processing, models training and testing, results shaping for submission;
-                - the pre-trained models from the scripts that produce good results.
+                - the pre-trained models from the scripts that produce good results;
+                - the report for the class in which we do this project.
 
 
 # Installation
